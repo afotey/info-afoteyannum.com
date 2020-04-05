@@ -1,0 +1,72 @@
+[
+    {
+        "pdf_stg_pdf_id": "0",
+        "pdf_file_name": "City Of Casper.pdf",
+        "final_amt": "5486.19",
+        "pay_to": "nan",
+        "company": "IPE] hey lg eee",
+        "phone": "307-235-8400",
+        "email": "adminsvcs@cityofcasperwy.com",
+        "address": "200 N David St. Casper, WY 82601"
+    },
+    {
+        "pdf_stg_pdf_id": "1",
+        "pdf_file_name": "Kass Management Services.pdf",
+        "final_amt": "220.0",
+        "pay_to": "nan",
+        "company": "ne",
+        "phone": "nan",
+        "email": "nan",
+        "address": "nan"
+    },
+    {
+        "pdf_stg_pdf_id": "2",
+        "pdf_file_name": "Hyatt Regency Chicago.pdf",
+        "final_amt": "2571.41",
+        "pay_to": "nan",
+        "company": "Hyatt Regency Chicago",
+        "phone": "312-565-1234",
+        "email": "qualitychirc@hyatt.com",
+        "address": "151 E Wacker Dr, Chicago IL 60601"
+    },
+    {
+        "pdf_stg_pdf_id": "3",
+        "pdf_file_name": "State of North Carolina DOT.pdf",
+        "final_amt": "0.0",
+        "pay_to": "nan",
+        "company": "STATE OF NORTH CAROLINA",
+        "phone": "919-715-8718",
+        "email": "tdjones@ncdot.gov",
+        "address": "30 Washington Valley Rd, Bedminster NJ 07921"
+    },
+    {
+        "pdf_stg_pdf_id": "4",
+        "pdf_file_name": "City of Phoenix(1).pdf",
+        "final_amt": "1686.63",
+        "pay_to": "nan",
+        "company": "CITY OF PHOENIX",
+        "phone": "602-495-7835",
+        "email": "nan",
+        "address": "PO BOX 29115 Phoenix AZ 85038"
+    },
+    {
+        "pdf_stg_pdf_id": "5",
+        "pdf_file_name": "Nokia of America Corporation.pdf",
+        "final_amt": "3851.29",
+        "pay_to": "nan",
+        "company": "INTERNATIONAL",
+        "phone": "nan",
+        "email": "nan",
+        "address": "600 Mountain Ave, New Providence NJ 07974"
+    },
+    {
+        "pdf_stg_pdf_id": "6",
+        "pdf_file_name": "Amerco Real Estate Company.pdf",
+        "final_amt": "30481.92",
+        "pay_to": "nan",
+        "company": "Amerco Real Estate Company",
+        "phone": "nan",
+        "email": "nan",
+        "address": "2727 N. Central Ave, Ste 56 Phoenix AZ 85004"
+    }
+]
