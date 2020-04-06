@@ -42,46 +42,6 @@
   {
     "score": 15.931979,
     "show": {
-      "pdf_stg_pdf_id": "1",
-      "id": 10412,
-      "url": "http://www.tvmaze.com/shows/10412/snow",
-      "name": "Kass Management Services.pdf",
-      "type": "Scripted",
-      "pay_to": "English",
-      "company": ["Company G", "Company C", "Company D"],
-      "email": "nan",
-      "phone": 120,
-      "premiered": "2004-12-13",
-      "officialSite": "http://abcfamily.go.com/movies/listing/snow",
-      "schedule": { "time": "20:00", "days": ["Sunday"] },
-      "rating": { "average": null },
-      "weight": 1,
-      "network": {
-        "id": 26,
-        "name": "FreeForm",
-        "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
-        }
-      },
-      "webChannel": null,
-      "externals": { "tvrage": null, "thetvdb": null, "imdb": "tt0425468" },
-      "image": {
-        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/88041.jpg",
-        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/88041.jpg"
-      },
-      "summary": "<p><b>Snow</b> is an American Christmas-themed film starring Tom Cavanagh and Ashley Williams that premiered in 2004 on the ABC television network, and was also shown on the ABC Family cable network later the same year. It was written by Rich Burns and directed by Alex Zamm. Since 2004, Snow has become a staple on ABC Family's annual 25 Days of Christmas programming block. The sequel, <i>Snow 2: Brain Freeze</i>, was released on December 14, 2008 as part of ABC Family's 25 Days of Christmas. The main cast from the first film reprise their roles in the sequel.</p>",
-      "updated": 1503125327,
-      "_links": {
-        "self": { "href": "http://api.tvmaze.com/shows/10412" },
-        "previousepisode": { "href": "http://api.tvmaze.com/episodes/537594" }
-      }
-    }
-  },
-  {
-    "score": 15.931979,
-    "show": {
       "pdf_stg_pdf_id": "2",
       "id": 10412,
       "url": "http://www.tvmaze.com/shows/10412/snow",
