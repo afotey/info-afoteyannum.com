@@ -80,16 +80,96 @@
     }
   },
   {
-    "score": 15.646496,
+    "score": 15.931979,
     "show": {
       "pdf_stg_pdf_id": "2",
+      "id": 10412,
+      "url": "http://www.tvmaze.com/shows/10412/snow",
+      "name": "Kass Management Services.pdf",
+      "type": 220.0,
+      "pay_to": "English",
+      "company": ["Company G", "Company C", "Company D"],
+      "email": "nan",
+      "phone": 120,
+      "premiered": "2004-12-13",
+      "officialSite": "http://abcfamily.go.com/movies/listing/snow",
+      "schedule": { "time": "20:00", "days": ["Sunday"] },
+      "rating": { "average": null },
+      "weight": 1,
+      "network": {
+        "id": 26,
+        "name": "FreeForm",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": "tt0425468" },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/88041.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/88041.jpg"
+      },
+      "summary": "<p><b>Snow</b> is an American Christmas-themed film starring Tom Cavanagh and Ashley Williams that premiered in 2004 on the ABC television network, and was also shown on the ABC Family cable network later the same year. It was written by Rich Burns and directed by Alex Zamm. Since 2004, Snow has become a staple on ABC Family's annual 25 Days of Christmas programming block. The sequel, <i>Snow 2: Brain Freeze</i>, was released on December 14, 2008 as part of ABC Family's 25 Days of Christmas. The main cast from the first film reprise their roles in the sequel.</p>",
+      "updated": 1503125327,
+      "_links": {
+        "self": { "href": "http://api.tvmaze.com/shows/10412" },
+        "previousepisode": { "href": "http://api.tvmaze.com/episodes/537594" }
+      }
+    }
+  },
+  {
+    "score": 15.931979,
+    "show": {
+      "pdf_stg_pdf_id": "3",
+      "id": 10412,
+      "url": "http://www.tvmaze.com/shows/10412/snow",
+      "name": "Hyatt Regency Chicago.pdf",
+      "type": 2571.41,
+      "pay_to": "nan",
+      "company": ["Company G", "Company C", "Company D"],
+      "email": "qualitychirc@hyatt.com",
+      "phone": 120,
+      "premiered": "2004-12-13",
+      "officialSite": "http://abcfamily.go.com/movies/listing/snow",
+      "schedule": { "time": "20:00", "days": ["Sunday"] },
+      "rating": { "average": null },
+      "weight": 1,
+      "network": {
+        "id": 26,
+        "name": "FreeForm",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": "tt0425468" },
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/35/88041.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/35/88041.jpg"
+      },
+      "summary": "<p><b>Snow</b> is an American Christmas-themed film starring Tom Cavanagh and Ashley Williams that premiered in 2004 on the ABC television network, and was also shown on the ABC Family cable network later the same year. It was written by Rich Burns and directed by Alex Zamm. Since 2004, Snow has become a staple on ABC Family's annual 25 Days of Christmas programming block. The sequel, <i>Snow 2: Brain Freeze</i>, was released on December 14, 2008 as part of ABC Family's 25 Days of Christmas. The main cast from the first film reprise their roles in the sequel.</p>",
+      "updated": 1503125327,
+      "_links": {
+        "self": { "href": "http://api.tvmaze.com/shows/10412" },
+        "previousepisode": { "href": "http://api.tvmaze.com/episodes/537594" }
+      }
+    }
+  },
+  {
+    "score": 15.646496,
+    "show": {
+      "pdf_stg_pdf_id": "4",
       "id": 32367,
       "url": "http://www.tvmaze.com/shows/32367/snow-crash",
       "name": "State of North Carolina DOT.pdf",
       "type": "Scripted",
       "pay_to": "nan",
       "company": ["Company A", "Company B"],
-      "email": "qualitychirc@hyatt.com",
+      "email": "tdjones@ncdot.gov",
       "phone": 60,
       "premiered": null,
       "officialSite": null,
@@ -119,14 +199,14 @@
   {
     "score": 13.10979,
     "show": {
-      "pdf_stg_pdf_id": "3",
+      "pdf_stg_pdf_id": "5",
       "id": 45215,
       "url": "http://www.tvmaze.com/shows/45215/tutankhamun-with-dan-snow",
       "name": "City of Phoenix(1).pdf",
       "type": "Documentary",
       "pay_to": "nan",
       "company": [],
-      "email": "tdjones@ncdot.gov",
+      "email": "nan",
       "phone": 60,
       "premiered": "2019-11-26",
       "officialSite": "https://www.channel5.com/show/tutankhamun-with-dan-snow",
@@ -162,7 +242,7 @@
   {
     "score": 12.140943,
     "show": {
-      "pdf_stg_pdf_id": "4",
+      "pdf_stg_pdf_id": "6",
       "id": 33029,
       "url": "http://www.tvmaze.com/shows/33029/snow-blind",
       "name": "Nokia of America Corporation.pdf",
@@ -196,7 +276,7 @@
   {
     "score": 12.140943,
     "show": {
-      "pdf_stg_pdf_id": "5",
+      "pdf_stg_pdf_id": "7",
       "id": 14031,
       "url": "http://www.tvmaze.com/shows/14031/snow-babies",
       "name": "Amerco Real Estate Company.pdf",
@@ -230,83 +310,6 @@
       "_links": {
         "self": { "href": "http://api.tvmaze.com/shows/14031" },
         "previousepisode": { "href": "http://api.tvmaze.com/episodes/646568" }
-      }
-    }
-  },
-  {
-    "score": 12.140943,
-    "show": {
-      "pdf_stg_pdf_id": "6",
-      "id": 12393,
-      "url": "http://www.tvmaze.com/shows/12393/snow-white",
-      "name": "Snow White",
-      "type": "Scripted",
-      "pay_to": "nan",
-      "company": ["Company A", "Company G", "Company F"],
-      "email": "Ended",
-      "phone": 60,
-      "premiered": "2004-03-15",
-      "officialSite": "http://www.kbs.co.kr/drama/snowhite/",
-      "schedule": { "time": "21:55", "days": ["Monday", "Tuesday"] },
-      "rating": { "average": null },
-      "weight": 0,
-      "network": {
-        "id": 128,
-        "name": "KBS2",
-        "country": {
-          "name": "Korea, Republic of",
-          "code": "KR",
-          "timezone": "Asia/Seoul"
-        }
-      },
-      "webChannel": null,
-      "externals": { "tvrage": null, "thetvdb": 244591, "imdb": "tt1186855" },
-      "image": {
-        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/42/105688.jpg",
-        "original": "http://static.tvmaze.com/uploads/images/original_untouched/42/105688.jpg"
-      },
-      "summary": "<p>Ma Young Hee has been in love with her best friend Han Jin Woo since the first time they met in high school. Han Jin Woo, on the other hand, does not see Young Hee's love for him and blindly goes out with other girls in front of her. On a trip to Japan, Young Hee meets a young man on the street who takes her back to his apartment since she is drunk. Young Hee accuses this man of raping her even though he didn't, but before she can rightfully press charges, he runs away as the government officials of Japan chase him down for an expired visa. Upon returning to Korea, Jin Woo stops by her apartment and introduces his younger brother, Han Sun Woo who just happens to be the young man she met in Japan. Jin Woo asks if Sun Woo may stay at her place, and Young Hee accepts out of love for Jin Woo. The story unfolds as a sudden high school classmate of Young Hee, Jang Hee Won, begins to court Jin Woo.</p>",
-      "updated": 1463583608,
-      "_links": {
-        "self": { "href": "http://api.tvmaze.com/shows/12393" },
-        "previousepisode": { "href": "http://api.tvmaze.com/episodes/591202" }
-      }
-    }
-  },
-  {
-    "score": 12.140943,
-    "show": {
-      "pdf_stg_pdf_id": "7",
-      "id": 39463,
-      "url": "http://www.tvmaze.com/shows/39463/snow-men",
-      "name": "Snow Men",
-      "type": "Documentary",
-      "pay_to": "nan",
-      "company": [],
-      "email": "Ended",
-      "phone": 60,
-      "premiered": "2010-10-29",
-      "officialSite": null,
-      "schedule": { "time": "22:00", "days": ["Friday"] },
-      "rating": { "average": null },
-      "weight": 0,
-      "network": {
-        "id": 66,
-        "name": "Discovery Channel",
-        "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
-        }
-      },
-      "webChannel": null,
-      "externals": { "tvrage": null, "thetvdb": 202201, "imdb": null },
-      "image": null,
-      "summary": "<p>Following the people who labor to reopen dangerous roads that were closed due to extreme weather along Utah's Cottonwood Canyon.</p>",
-      "updated": 1541127416,
-      "_links": {
-        "self": { "href": "http://api.tvmaze.com/shows/39463" },
-        "previousepisode": { "href": "http://api.tvmaze.com/episodes/1557421" }
       }
     }
   }
