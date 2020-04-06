@@ -2,7 +2,7 @@
   {
     "score": 18.556454,
     "show": {
-      "pdf_s"
+      "pdf_stg_pdf_id": "0",
       "id": 44813,
       "url": "http://www.tvmaze.com/shows/44813/the-snow-spider",
       "name": "City of Casper.pdf",
@@ -42,6 +42,7 @@
   {
     "score": 15.931979,
     "show": {
+      "pdf_stg_pdf_id": "1",
       "id": 10412,
       "url": "http://www.tvmaze.com/shows/10412/snow",
       "name": "Kass Management Services.pdf",
@@ -81,6 +82,7 @@
   {
     "score": 15.646496,
     "show": {
+      "pdf_stg_pdf_id": "2",
       "id": 32367,
       "url": "http://www.tvmaze.com/shows/32367/snow-crash",
       "name": "State of North Carolina DOT.pdf",
@@ -117,6 +119,7 @@
   {
     "score": 13.10979,
     "show": {
+      "pdf_stg_pdf_id": "3",
       "id": 45215,
       "url": "http://www.tvmaze.com/shows/45215/tutankhamun-with-dan-snow",
       "name": "City of Phoenix(1).pdf",
@@ -159,6 +162,7 @@
   {
     "score": 12.140943,
     "show": {
+      "pdf_stg_pdf_id": "4",
       "id": 33029,
       "url": "http://www.tvmaze.com/shows/33029/snow-blind",
       "name": "Nokia of America Corporation.pdf",
@@ -192,6 +196,7 @@
   {
     "score": 12.140943,
     "show": {
+      "pdf_stg_pdf_id": "5",
       "id": 14031,
       "url": "http://www.tvmaze.com/shows/14031/snow-babies",
       "name": "Amerco Real Estate Company.pdf",
@@ -231,6 +236,7 @@
   {
     "score": 12.140943,
     "show": {
+      "pdf_stg_pdf_id": "6",
       "id": 12393,
       "url": "http://www.tvmaze.com/shows/12393/snow-white",
       "name": "Snow White",
@@ -270,77 +276,7 @@
   {
     "score": 12.140943,
     "show": {
-      "id": 37282,
-      "url": "http://www.tvmaze.com/shows/37282/snow-flower",
-      "name": "Snow Flower",
-      "type": "Scripted",
-      "language": "Korean",
-      "genres": ["Drama", "Romance"],
-      "email": "Ended",
-      "phone": 60,
-      "premiered": "2006-11-20",
-      "officialSite": null,
-      "schedule": { "time": "21:55", "days": ["Monday", "Tuesday"] },
-      "rating": { "average": null },
-      "weight": 0,
-      "network": {
-        "id": 127,
-        "name": "SBS",
-        "country": {
-          "name": "Korea, Republic of",
-          "code": "KR",
-          "timezone": "Asia/Seoul"
-        }
-      },
-      "webChannel": null,
-      "externals": { "tvrage": null, "thetvdb": 281773, "imdb": null },
-      "image": null,
-      "summary": "<p>When she was young, Yoo Da Mi was forced to move in with her grandmother. Unknowingly, it was then when her father disappeared from her life, and since then, she had always thought that her father was dead. As time wore on, her mother became one of the country's best-selling authors, but due to this, she had never found the time to be with her daughter. Suddenly, one day, Da Mi accidentally intercepts a phone call from her father and realizes that her mother has lied to her about her father's whereabouts. Angry, Da Mi decides to infuriate her mother by deciding to not to attend university and chooses to become an actress instead. Surprisingly, the first film she stars in is based on one of her mother's novels. Meanwhile, Ha Yeong Chan - her boss's step-brother - is a friend who secretly loves Da Mi though gets turned away by her.</p>",
-      "updated": 1529953902,
-      "_links": {
-        "self": { "href": "http://api.tvmaze.com/shows/37282" },
-        "previousepisode": { "href": "http://api.tvmaze.com/episodes/1485196" }
-      }
-    }
-  },
-  {
-    "score": 12.140943,
-    "show": {
-      "id": 37320,
-      "url": "http://www.tvmaze.com/shows/37320/summer-snow",
-      "name": "Summer Snow",
-      "type": "Scripted",
-      "language": "Japanese",
-      "genres": ["Drama", "Romance"],
-      "email": "Ended",
-      "phone": 60,
-      "premiered": "2000-07-07",
-      "officialSite": null,
-      "schedule": { "time": "21:00", "days": ["Friday"] },
-      "rating": { "average": null },
-      "weight": 0,
-      "network": {
-        "id": 159,
-        "name": "TBS",
-        "country": { "name": "Japan", "code": "JP", "timezone": "Asia/Tokyo" }
-      },
-      "webChannel": null,
-      "externals": { "tvrage": null, "thetvdb": 84810, "imdb": "tt0281240" },
-      "image": {
-        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/159/398587.jpg",
-        "original": "http://static.tvmaze.com/uploads/images/original_untouched/159/398587.jpg"
-      },
-      "summary": "<p>A love story between a young man who has been forced to grow up too quickly, and a young woman with an ailment that has placed restrictions on her life. Natsuo has been looking after his younger brother and sister since the death of their parents. He has also been running the family bicycle shop. Yuki becomes the only person in the world in whom he can confide. For Yuki, Natsuo becomes the catalyst that has her trying to break out of her cocoon.</p>",
-      "updated": 1577285458,
-      "_links": {
-        "self": { "href": "http://api.tvmaze.com/shows/37320" },
-        "previousepisode": { "href": "http://api.tvmaze.com/episodes/1485793" }
-      }
-    }
-  },
-  {
-    "score": 12.140943,
-    "show": {
+      "pdf_stg_pdf_id": "7",
       "id": 39463,
       "url": "http://www.tvmaze.com/shows/39463/snow-men",
       "name": "Snow Men",
